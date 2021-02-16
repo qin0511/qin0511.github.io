@@ -221,9 +221,7 @@ h6 {
   background: url("../img/hero-bg.jpeg") top center;
   background-size: cover;
 }
-#hero h2 {
-  color: white;
-}
+
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
@@ -241,7 +239,7 @@ h6 {
   min-width: 300px;
 }
 
-#hero h1 {
+#hero h2 {
   margin: 0 0 10px 0;
   font-size: 64px;
   font-weight: 700;
