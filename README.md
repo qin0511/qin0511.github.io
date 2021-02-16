@@ -17,4 +17,4 @@ npm install
 https://johnguerra.co/classes/webDevelopment_spring_2021/
 ## Link to the video demonstration:
 ## Screenshot：
-https://qin0511.github.io/screenshot.PNG
+![green color scheme]（https://qin0511.github.io/screenshot.PNG）
