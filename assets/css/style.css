@@ -383,6 +383,10 @@ section {
   background-color: #999;
 }
 
+/*
+Overrall great work about the clock, really like the idea.
+For the ticks, maybe can try generate these using JS? Probably will be easier.
+*/
 .one {
   transform: translateX(100px) rotate(30deg);
 }
