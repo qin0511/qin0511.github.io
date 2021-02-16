@@ -3,7 +3,8 @@ module.exports = {
         "browser": true,
         "es2021": true
     },
-    "extends": "eslint:recommended","prettier"
+    // I cloned the repo down and found the prettier and eslint not working, found out you have this bug.
+    "extends": ["eslint:recommended","prettier"],
     "parserOptions": {
         "ecmaVersion": 12
     },
