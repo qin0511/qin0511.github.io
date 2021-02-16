@@ -16,4 +16,5 @@ npm install
 ## Class Link: 
 https://johnguerra.co/classes/webDevelopment_spring_2021/
 ## Link to the video demonstration:
-## Screenshots
+## Screenshot：
+https://qin0511.github.io/screenshot.PNG
