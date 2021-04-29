@@ -7,18 +7,16 @@ This application is a React application designed for multiple, synchronous users
 
 ## Project constraints and limitations:
 
-This application is designed not to support user
+- This application is designed not to support user
 accounts or authentication.
 Users can join the game by only entering a name.
-
-We used mock data for Pictionary words list.
+- We used mock data for Pictionary words list.
 
 
 ## Features:
 Pictionary is an app that allows multiple players to play games.
 1. Users are not required to sign in to use the app. Users can enter the name to join the chat room. 
 - If there is already a game in progress, the join chat is disabled and a progress bar will be shown on the screen to inform when the play could get in.
-- 
 2. A tutorial slide will be shown to demonstrate how to play the game.
 - Expert users can choose to skip the tutorials.
 3. After join the chat room, the player’s name will be shown on the player list and chat room.
