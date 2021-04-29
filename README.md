@@ -1,9 +1,9 @@
 # WebDev-Project1(Homepage)
 
+# Project Description
+
 ## Objectives: 
 This application is a React application designed for multiple, synchronous users. It is a groupware application that supports synchronous communication, coordination, joint attention, and group awareness.
-
-
 
 ## Project constraints and limitations:
 
