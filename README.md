@@ -21,8 +21,8 @@ Pictionary is an app that allows multiple players to play games.
 2. A tutorial slide will be shown to demonstrate how to play the game.
 - Expert users can choose to skip the tutorials.
 3. After join the chat room, the player’s name will be shown on the player list and chat room.
-- If the players amount is less than two, the game is not able to start. So user need to wait for other players to join in. 
-- When the game gets enough players, the “start drawing” button will be shown and clickable to user. 
+   1. If the players amount is less than two, the game is not able to start. So user need to wait for other players to join in. 
+   2. When the game gets enough players, the “start drawing” button will be shown and clickable to user. 
 - After all users clicked start, the game begins. 
 - The host player will receive a word on the screen. 
 - All other players can only see “host player is drawing” but not the word. There is a 30 seconds timer for each game. The host can start drawing on canvas. 
