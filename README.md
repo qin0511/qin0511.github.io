@@ -17,9 +17,9 @@ We used mock data for Pictionary words list.
 ## Features:
 Pictionary is an app that allows multiple players to play games.
 1. Users are not required to sign in to use the app. Users can enter the name to join the chat room. 
-If there is already a game in progress, the join chat is disabled and a progress bar will be shown on the screen to inform when the play could get in.
+- If there is already a game in progress, the join chat is disabled and a progress bar will be shown on the screen to inform when the play could get in.
 2. A tutorial slide will be shown to demonstrate how to play the game.
-Expert users can choose to skip the tutorials.
+- Expert users can choose to skip the tutorials.
 3. After join the chat room, the player’s name will be shown on the player list and chat room.
 - If the players amount is less than two, the game is not able to start. So user need to wait for other players to join in. 
 - When the game gets enough players, the “start drawing” button will be shown and clickable to user. 
