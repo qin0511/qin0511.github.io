@@ -1,4 +1,4 @@
-# WebDev-Project1(Homepage)
+# My Homepage
 
 ## Author: 
 Xiaoyan Qin
@@ -14,8 +14,3 @@ The `package.json` contains the packages I used.
 git clone 
 npm install 
 
-## Class Link: 
-https://johnguerra.co/classes/webDevelopment_spring_2021/
-## Link to the video demonstration:
-## Screenshot：
-https://qin0511.github.io/screenshot.PNG
